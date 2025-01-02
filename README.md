@@ -2,9 +2,6 @@
 
 Welcome to my repository for college codes and exercises! 🚀
 
-## 📚 ABOUT THE REPOSITORY
-This repository was created to store and organize codes, projects, and exercises developed during my Systems Analysis and Development course. Here you will find implementations in various programming languages and topics related to technology.
-
 ## 📂 REPOSITORY STRUCTURE
 - **C** - Codes and exercises in C language.
 - **Python** - Scripts and projects in Python.
